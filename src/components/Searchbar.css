@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@700&display=swap');
+
+.searchbar form {
+  font-family: 'Reem Kufi', sans-serif;
+
+    display: flex;
+    align-items: center;
+  }
+  .searchbar input {
+    margin-left: 10px;
+  }
